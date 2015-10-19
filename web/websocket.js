@@ -1,5 +1,12 @@
 window.onload = init;
-var socket = new WebSocket("ws://localhost:8080/SecureServer/actions");
+var socket = null;
+if (window.location.protocol == "https:") {
+//    socket = new WebSocket("wss://localhost:8080/SecureServer/actions");
+    socket = new WebSocket("wss://" + window.location.host + "/SecureServer/actions");
+} else {
+//    socket = new WebSocket("wss://localhost:8443/SecureServer/actions");
+    socket = new WebSocket("ws://" + window.location.host + "/SecureServer/actions");
+}
 socket.onmessage = onMessage;
 
 function onMessage(event) {
