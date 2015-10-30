@@ -35,20 +35,7 @@ We will use Android Mobile Device as our application platform and MySQL database
 
 Timeline and Work Distribution:
 -------------------------------
-<<<<<<< HEAD
-> - Creating the UI for the application for enlisting files (9/30/16, Jay and Metehan)
-> - Establish a server to manage all devices (10/7/16, Jay and Metehan)
-> - Test the correctness of the encryption algorithms to be used in the application (10/14/16, Metehan)
-> - Configure server for security issues (10/14/16, Jay)
-> - Mongo DB Structures for storing the checksums, keyfiles, user account info (10/28/16, Jay)
-> - Uploading files to the Google drive (10/28/16, Metehan)
-> - Implement Encryption algorithms (11/4/16, Jay and Metehan)
-> - Sign up and Log in procedure (11/4/16, Jay)
-> - Downloading files from the Google drive (11/11/16, Metehan)
-> - Sharing the files (11/18/16, Jay)
-> - Testing and fixing bugs if found (11/25/16, Jay and Metehan) 
-=======
-> - Creating the UI for the application for enlisting files (9/30/15, Jay and Metehan)
+> - Create the UI for the application for enlisting files (9/30/15, Jay and Metehan)
 > - Establish a server to manage all devices (10/7/15, Jay and Metehan)
 > - Test the correctness of the encryption algorithms to be used in the application (10/14/15, Metehan)
 > - Configure server for security issues (10/14/15, Jay)
