@@ -59,5 +59,4 @@ Timeline and Work Distribution:
 > - Uploading files to the Google drive (10/28/15, Metehan)
 > - Downloading files from the Google drive (11/11/15, Metehan)
 > - Sharing the files (11/18/15, Jay)
-> - Testing and fixing bugs if found (11/25/15, Jay and Metehan) 
->>>>>>> Developing
+> - Testing and fixing bugs if found (11/25/15, Jay and Metehan)
