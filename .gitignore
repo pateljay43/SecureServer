@@ -6,3 +6,5 @@
 *.class
 
 *.class
+
+build/web/WEB-INF/classes/org/example/websocket/DeviceWebSocketServer.class
